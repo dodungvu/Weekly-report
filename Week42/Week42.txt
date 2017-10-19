@@ -1,0 +1,38 @@
+Weekly report
+Do Dung Vu
+Week 42
+From 16-Oct to 20-Oct
+-----------------------------------------------------------------
+Dear Mr	Apollinaire Nadembega
+
+I would like to report my tasks during the Week 42
+#################################################################
+1. Done
+- Made the report of comparison between some bots such as: mryoung, lucy, 
+blinkist, and smmry
+- Made the report of mryoung.co
+- Made the system test https://dev-banq.bibliomondo.com/
+- Worked with Julien to understand InMedia (Admin, CMS)
+	+ https://dev-occitanie.bibliomondo.com/
+	+ https://dev-occitanie.bibliomondo.com/admin
+	+ https://dev-occitanie.bibliomondo.com/in
+	+ https://bpi.bibliomondo.com/
+	+ https://valenciennes6.bibliomondo.com/
+	+ https://basedescollections.musee-armee.fr/
+	+ https://dev-catalogue.banq.qc.ca/
+	+ https://intime.bibliomondo.com
+- Proposed the solution of "showing the information of a picture based on your camera" 
+by using Convolutional neural network based on Android SDK
+	+ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+#################################################################
+2. Troubles
+	+ Ms. Claudia Guzman sent me the not good enviroment for testing inlcuded 
+two forms without any instructions 
+
+#################################################################
+3. Next step
+	+ Understanding the InMedia (Admin, CMS) based on the better enviroment
+		https://dev-catalogue.banq.qc.ca
+	+ Propose the model of the project "showing the information of a picture based on your camera"
+	+ Create the enviroment for the project "showing the information of a picture based on your camera"
