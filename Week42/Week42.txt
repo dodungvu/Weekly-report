@@ -1,12 +1,13 @@
-Weekly report
-Do Dung Vu
-Week 42
+
+Weekly report																					
+Do Dung Vu																						
+Week 42																							
 From 16-Oct to 20-Oct
------------------------------------------------------------------
+
 Dear Mr	Apollinaire Nadembega
 
 I would like to report my tasks during the Week 42
-#################################################################
+#############################################################################################################
 1. Done
 - Made the report of comparison between some bots such as: mryoung, lucy, 
 blinkist, and smmry
@@ -22,15 +23,20 @@ blinkist, and smmry
 	+ https://dev-catalogue.banq.qc.ca/
 	+ https://intime.bibliomondo.com
 - Proposed the solution of "showing the information of a picture based on your camera" 
-by using Convolutional neural network based on Android SDK
+by using Convolutional neural network (CNN) based on Android SDK
 	+ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+- Investigate the related framework or open source of CNN
 
-#################################################################
-2. Troubles
+#############################################################################################################
+
+2. Difficulty
 	+ Ms. Claudia Guzman sent me the not good enviroment for testing inlcuded 
 two forms without any instructions 
+	+ Need the development enviroment to understand the system more
+	+ Need OS: Ubuntu and Windows 
 
-#################################################################
+#############################################################################################################
+
 3. Next step
 	+ Understanding the InMedia (Admin, CMS) based on the better enviroment
 		https://dev-catalogue.banq.qc.ca
