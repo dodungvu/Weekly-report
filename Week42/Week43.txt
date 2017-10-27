@@ -6,7 +6,7 @@ From 23-Oct to 27-Oct
 
 Dear Mr	Apollinaire Nadembega
 
-I would like to report my tasks during the Week 42
+I would like to report my tasks during the Week 43
 #############################################################################################################
 1. Done
 	+ Proposed the solution of "show me any information of a given picture"
@@ -31,6 +31,6 @@ network manager, vpn, pcips,  and so on
 
 3. Next step
 	+ Finish install InMedia enviroment and make the image + manual of this system for back up 
-	+ Implement the hologram demo (if it is ordered)
+	+ Implement the hologram demo project (if it is ordered)
 	
 	
