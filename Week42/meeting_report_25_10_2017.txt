@@ -1,0 +1,37 @@
+=============================================================
+Meeting report																					
+=============================================================
+Created by: Do Dung Vu																						
+Attendee: Do Dung Vu, Apollinarie Nadembega, Diana Vlasie	
+Absence: Ronald Brisebois 																						
+Time: 10 AM - 11 AM, 23-Oct, 2017
+=============================================================
+Target:
+Mr. Do Dung Vu explains about the applications of hologram and
+how to apply them to Bibliomondo Museum products
+=============================================================
+Contains:
+**********Mr. Do Dung Vu*************************************
+- Explain about the application of hologram
+- Address the technology: RaspberryPi 3 Hologram model
+	+ The system model: history of an item in the museum,
+update item from other site, synchronize signal
+	+ The solution
+	+ How to make the hologram video
+	+ How can we create the prototype
+**********Mr. Apollinarie Nadembega***************************
+- Discuss about the main idea of hologram:
+	+ Users stay around hologram screen
+	+ What should we do to improve hologram application:
+		- Embeded the AI technology to make the value added
+		- Where could we apply the hologram: mall, airport,
+	museum, so on
+- Discuss about the prototype:
+	+ What should we need to do with the prototype:
+		- The configuration: using RaspberryPi (not PC)
+		- The size of prototype: approximate the CUBE
+**********Ms. Diana Vlasie*************************************
+- Discuss about the application of museum
+- Discuss about the point of view research in the hologram model
+- Propose idea: make the virtual assistance to explain about items
+in the museum based on hologram

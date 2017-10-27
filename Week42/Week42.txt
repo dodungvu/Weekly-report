@@ -23,7 +23,7 @@ blinkist, and smmry
 	+ https://dev-catalogue.banq.qc.ca/
 	+ https://intime.bibliomondo.com
 - Proposed the solution of "showing the information of a picture based on your camera" 
-by using Convolutional neural network (CNN) based on Android SDK
+by using Convolutional neural network (CNN) or using Regions with Convolutional Neural Network (RCNN) 
 	+ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 - Investigate the related framework or open source of CNN
 
